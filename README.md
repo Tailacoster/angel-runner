@@ -20,6 +20,7 @@ Please read [CONTRIBUTING.md](https://github.com/Tailacoster/angel-runner/blob/m
 ## Contributors
 
 * **Oliver Bly** - *Programmer, Repository Administrator* - [Tailacoster](https://github.com/Tailacoster)
+* **Enoch Stevens** - *Sound Designer* - [Enochulous](https://github.com/Enochulous)
 
 ## Acknowledgments
 
