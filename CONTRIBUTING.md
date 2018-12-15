@@ -3,7 +3,11 @@ This file contains relevant information on how to go about contributing to the p
 
 ## Using Unity Hub
 
-*Insert info here*
+#### Launch Unity Hub
+After installing, launch Unity Hub. You will want to install Unity 2018.2.18f1, the most recent version of Unity as of the writing of this document, and the version this game is being developed in. Make sure to install build support for Android, iOS, Windows, Mac and Linux, as well as any other things you anticiapte needing.
+
+#### Link With Repository
+If you've already cloned the repository, you will need to link it up the game project within to Unity Hub so you can launch the project. This can be done by clicking the "Open" button and navigating to the repository folder. Highlight over the project folder within the repository folder and click the "Select folder" button. It will launch the game project and you will now have quick access to the project when you launch Unity Hub.
 
 ## Using GitHub Desktop
 
@@ -35,4 +39,4 @@ The workflow described below is the step-by-step method used to sync up your loc
 
 ## Code of Conduct
 
-*Insert info here*
+*Insert info here* (TBD)
